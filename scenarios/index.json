@@ -1,0 +1,205 @@
+[
+  {
+    "id": "asking-for-help-blocker",
+    "title": "Asking for Help with a Blocker",
+    "title_zh": "求助/讲 blocker",
+    "category": "meeting",
+    "category_zh": "会议沟通",
+    "weekdays": [],
+    "tier": "free",
+    "dialogue_turns": 10
+  },
+  {
+    "id": "backlog-grooming",
+    "title": "Backlog Grooming",
+    "title_zh": "Backlog 梳理会",
+    "category": "scrum",
+    "category_zh": "敏捷会议",
+    "weekdays": [
+      "Wed"
+    ],
+    "tier": "free",
+    "dialogue_turns": 12
+  },
+  {
+    "id": "code-review-discussion",
+    "title": "Code Review Discussion",
+    "title_zh": "Code review 讨论",
+    "category": "meeting",
+    "category_zh": "会议沟通",
+    "weekdays": [],
+    "tier": "free",
+    "dialogue_turns": 10
+  },
+  {
+    "id": "design-review",
+    "title": "Design Review",
+    "title_zh": "设计评审",
+    "category": "meeting",
+    "category_zh": "会议沟通",
+    "weekdays": [],
+    "tier": "free",
+    "dialogue_turns": 12
+  },
+  {
+    "id": "disagreeing-politely",
+    "title": "Disagreeing Politely",
+    "title_zh": "礼貌地表达不同意见",
+    "category": "meeting",
+    "category_zh": "会议沟通",
+    "weekdays": [],
+    "tier": "free",
+    "dialogue_turns": 10
+  },
+  {
+    "id": "giving-project-update",
+    "title": "Giving a Project Update",
+    "title_zh": "项目进展同步",
+    "category": "meeting",
+    "category_zh": "会议沟通",
+    "weekdays": [],
+    "tier": "free",
+    "dialogue_turns": 11
+  },
+  {
+    "id": "incident-postmortem",
+    "title": "Incident Postmortem",
+    "title_zh": "故障复盘",
+    "category": "meeting",
+    "category_zh": "会议场景",
+    "weekdays": [],
+    "tier": "free",
+    "dialogue_turns": 12
+  },
+  {
+    "id": "one-on-one-ask-resources",
+    "title": "1:1 Asking for Resources",
+    "title_zh": "1:1 要资源/提需求",
+    "category": "one-on-one",
+    "category_zh": "1:1 沟通",
+    "weekdays": [],
+    "tier": "free",
+    "dialogue_turns": 10
+  },
+  {
+    "id": "one-on-one-manager-update",
+    "title": "1:1 Progress Update with Manager",
+    "title_zh": "1:1 跟经理同步进展",
+    "category": "one-on-one",
+    "category_zh": "1:1 沟通",
+    "weekdays": [
+      "Fri"
+    ],
+    "tier": "free",
+    "dialogue_turns": 12
+  },
+  {
+    "id": "one-on-one-peer",
+    "title": "1:1 Coffee Chat with a Peer",
+    "title_zh": "和 peer 的 1:1",
+    "category": "one-on-one",
+    "category_zh": "1:1 沟通",
+    "weekdays": [],
+    "tier": "free",
+    "dialogue_turns": 10
+  },
+  {
+    "id": "presenting-to-stakeholders",
+    "title": "Presenting to Stakeholders",
+    "title_zh": "给 stakeholder 汇报",
+    "category": "meeting",
+    "category_zh": "会议场景",
+    "weekdays": [],
+    "tier": "free",
+    "dialogue_turns": 11
+  },
+  {
+    "id": "small-talk-elevator",
+    "title": "Elevator / Kitchen Run-in",
+    "title_zh": "电梯/茶水间偶遇",
+    "category": "small-talk",
+    "category_zh": "Small Talk",
+    "weekdays": [],
+    "tier": "free",
+    "dialogue_turns": 8
+  },
+  {
+    "id": "small-talk-lunch",
+    "title": "Lunch Small Talk",
+    "title_zh": "午餐闲聊",
+    "category": "small-talk",
+    "category_zh": "Small Talk",
+    "weekdays": [],
+    "tier": "free",
+    "dialogue_turns": 12
+  },
+  {
+    "id": "small-talk-meeting-opener",
+    "title": "Pre-Meeting Small Talk",
+    "title_zh": "会前 small talk",
+    "category": "small-talk",
+    "category_zh": "Small Talk",
+    "weekdays": [
+      "Thu"
+    ],
+    "tier": "free",
+    "dialogue_turns": 10
+  },
+  {
+    "id": "sprint-planning",
+    "title": "Sprint Planning",
+    "title_zh": "Sprint 计划会",
+    "category": "scrum",
+    "category_zh": "敏捷会议",
+    "weekdays": [
+      "Tue"
+    ],
+    "tier": "free",
+    "dialogue_turns": 12
+  },
+  {
+    "id": "sprint-retro",
+    "title": "Sprint Retrospective",
+    "title_zh": "Sprint 回顾会",
+    "category": "scrum",
+    "category_zh": "敏捷会议",
+    "weekdays": [],
+    "tier": "free",
+    "dialogue_turns": 11
+  },
+  {
+    "id": "standup",
+    "title": "Daily Standup",
+    "title_zh": "每日站会",
+    "category": "scrum",
+    "category_zh": "敏捷会议",
+    "weekdays": [
+      "Mon"
+    ],
+    "tier": "free",
+    "dialogue_turns": 10
+  },
+  {
+    "id": "weekend-review",
+    "title": "Weekend Review",
+    "title_zh": "周末轻量复习",
+    "category": "review",
+    "category_zh": "复习巩固",
+    "weekdays": [
+      "Sat",
+      "Sun"
+    ],
+    "tier": "free",
+    "dialogue_turns": 10
+  },
+  {
+    "id": "wrapping-up-meeting",
+    "title": "Wrapping Up a Meeting",
+    "title_zh": "自然地结束会议",
+    "category": "meeting",
+    "category_zh": "会议场景",
+    "weekdays": [],
+    "tier": "free",
+    "dialogue_turns": 10
+  }
+]
