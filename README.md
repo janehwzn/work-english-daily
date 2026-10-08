@@ -47,4 +47,4 @@ python3 scripts/build_index.py   # 重新生成 scenarios/index.json
 
 ## Roadmap
 
-见 [SUBSCRIPTION.md](./SUBSCRIPTION.md)：免费每日场景 → Pro 订阅（全场景库解锁、AI 角色扮演教练、发音打分、周报）。
+更多场景持续更新中，Pro 版本即将上线，敬请期待。
